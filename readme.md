@@ -22,7 +22,7 @@
 - WordPress
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadihattab&show_icons=true&theme=tokyonight) ![GitHub Streak](https://streak-stats.demolab.com?user=ash89779-art&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash89779-ar&show_icons=true&theme=tokyonight) ![GitHub Streak](https://streak-stats.demolab.com?user=ash89779-art&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ash89779-art&layout=compact&theme=tokyonight)
 
