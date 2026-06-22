@@ -26,4 +26,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ash89779-art&layout=compact&theme=tokyonight)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ash89779-art&theme=tokyo-night)](https://github.com/fadihattab)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ash89779-art&theme=tokyo-night)](https://github.com/ash89779-ar)
